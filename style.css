@@ -1,4 +1,9 @@
 body {
     font-family: Arial;
 }
-
+/* Dark Theme */
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
