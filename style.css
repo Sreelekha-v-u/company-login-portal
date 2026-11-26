@@ -2,3 +2,9 @@ body {
     font-family: Arial;
 }
 
+/* Light Theme */
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial;
+}
